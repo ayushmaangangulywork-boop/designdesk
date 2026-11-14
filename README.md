@@ -32,4 +32,4 @@ This project demonstrates the practical application of digital workflow manageme
 This is a demonstration project containing sample data. It is not connected to a live enterprise database or production management system. Browser-based changes are stored locally in the user's browser.
 ## Live Demo
 
-[View Jewellery Design Desk](https://ayushmaangangulywork-boop.github.io/designdesk/)
+[View Jewellery Design Desk]([https://ayushmaangangulywork-boop.github.io/designdesk/](https://ayushmaangangulywork-boop.github.io/designdesk/))
